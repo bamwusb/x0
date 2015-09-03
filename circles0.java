@@ -7,8 +7,8 @@ void setup() {
 
 // Next frame:  circle at (x,y). //
 void draw() {
-  ellipse( 50,50, 60,30 );       // Try changing the (x,y) and size.
+  ellipse( 50,50, 60,90 );       // Try changing the (x,y) and size.
 
-  text( "Ha ha!", 50, height-20 );
+  text( "Ho ho!", 50, height-50 );
 
 }
